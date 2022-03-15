@@ -7,8 +7,7 @@ Final Machine Project in CCPROG2
 <img src="Screenshots/2-PWKProper.png" width="1033px">
 <img src="Screenshots/3-ExitPWK.png">
 
-📝**About**:
-   - An application to store users’ passwords in a password protected encrypted file. 
+📝**About**: 
    - This implementation uses .dat files to store users' passwords.
    - Programming Language used: C.
 
